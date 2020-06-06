@@ -8,4 +8,8 @@ LEW, Art; MAUCH, Holger. __Dynamic programming: A computational tool__. Springer
 
 ## Strings and Sequences
 
-O diretorio "Sequences" contem alguns notebooks em jupyter que tratam de problems de obter a maior sequencia ou a maior substring comum a duas strings.
+The "Sequences" folder contains some notebooks in jupyter that deal with problems of obtaining the largest sequence or the largest substring common to two strings.
+
+## Graphs
+
+This folder contains notebooks with DP problem with graphs.
